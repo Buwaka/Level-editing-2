@@ -655,3 +655,297 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.08.06-09.14.19:625][876]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
 [2019.08.06-09.14.21:174][876]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Untitled38317D9449F82F905F0DC5A75613CAC7.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Untitled.umap'
 [2019.08.06-09.14.23:225][996]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2019.08.06-09.14.50:694][592]MapCheck: New page: Map Check
+[2019.08.06-09.14.50:713][592]Cmd: MAP REBUILD ALLVISIBLE
+[2019.08.06-09.14.50:713][592]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.08.06-09.14.51:283][592]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.08.06-09.14.51:547][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:554][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:563][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:573][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:590][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:638][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:658][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2019.08.06-09.14.51:689][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:700][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:724][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:745][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:757][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:787][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:795][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:816][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:830][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:850][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:859][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:956][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.51:970][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.52:037][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.52:045][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.14.52:073][592]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.08.06-09.15.03:604][592]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.08.06-09.15.03:604][592]TextureStreamingBuild: Display: Compiling optional shaders took 12.062 seconds.
+[2019.08.06-09.15.03:737][592]LogLevel: Display: Export Material TexCoord Scales took 0.133 seconds.
+[2019.08.06-09.15.03:941][592]TextureStreamingBuild: Display: Build Texture Streaming took 0.204 seconds.
+[2019.08.06-09.15.04:003][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.08.06-09.15.04:006][592]LightingResults: New page: Lighting Build - Aug 6, 2019, 1:15:04 PM
+[2019.08.06-09.15.04:063][592]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.08.06-09.15.04:123][592]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.08.06-09.15.04:140][592]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.08.06-09.15.04:794][592]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.08.06-09.15.04:795][592]LogSwarmInterface: [TryOpenConnection] Local Process ID is 18492
+[2019.08.06-09.15.07:887][592]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.08.06-09.15.07:888][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.08.06-09.15.07:889][592]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.08.06-09.15.07:889][592]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.08.06-09.15.07:889][592]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.08.06-09.15.07:889][592]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.08.06-09.15.08:140][592]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.08.06-09.15.08:140][592]MapCheck: New page: Untitled - Aug 6, 2019, 1:15:08 PM
+[2019.08.06-09.15.08:140][592]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.08.06-09.15.08:143][592]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.398ms to complete.
+[2019.08.06-09.15.08:166][592]LogEditorBuildUtils: Build time 0:17
+[2019.08.06-09.15.08:225][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling. 
+[2019.08.06-09.15.08:232][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_18, compiling. 
+[2019.08.06-09.15.08:284][593]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_20, compiling. 
+[2019.08.06-09.15.08:357][594]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_29, compiling. 
+[2019.08.06-09.15.08:395][595]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_30, compiling. 
+[2019.08.06-09.15.08:426][596]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_31, compiling. 
+[2019.08.06-09.15.08:459][597]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_32, compiling. 
+[2019.08.06-09.15.08:494][598]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_33, compiling. 
+[2019.08.06-09.15.08:527][599]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_34, compiling. 
+[2019.08.06-09.15.08:565][600]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_35, compiling. 
+[2019.08.06-09.15.08:598][601]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_36, compiling. 
+[2019.08.06-09.15.08:634][602]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_37, compiling. 
+[2019.08.06-09.15.08:657][603]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_38, compiling. 
+[2019.08.06-09.15.08:680][604]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_21, compiling. 
+[2019.08.06-09.15.08:701][605]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_39, compiling. 
+[2019.08.06-09.15.08:724][606]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_40, compiling. 
+[2019.08.06-09.15.08:746][607]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_41, compiling. 
+[2019.08.06-09.15.08:768][608]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_42, compiling. 
+[2019.08.06-09.15.08:790][609]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_43, compiling. 
+[2019.08.06-09.15.08:813][610]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_22, compiling. 
+[2019.08.06-09.15.08:834][611]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling. 
+[2019.08.06-09.15.08:861][612]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_24, compiling. 
+[2019.08.06-09.15.08:885][613]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_25, compiling. 
+[2019.08.06-09.15.08:909][614]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_26, compiling. 
+[2019.08.06-09.15.08:933][615]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_27, compiling. 
+[2019.08.06-09.15.08:955][616]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_28, compiling. 
+[2019.08.06-09.15.08:977][617]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Building_Inst, compiling. 
+[2019.08.06-09.15.08:986][617]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Building_Inst, compiling. 
+[2019.08.06-09.15.09:007][618]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer glassbow_dirt, compiling. 
+[2019.08.06-09.15.09:014][618]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer glassbow_dirt, compiling. 
+[2019.08.06-09.15.09:570][633]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer clothmat_Inst, compiling. 
+[2019.08.06-09.15.09:576][633]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer clothmat_Inst, compiling. 
+[2019.08.06-09.15.09:622][635]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WoodMat_Inst, compiling. 
+[2019.08.06-09.15.09:632][635]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WoodMat_Inst, compiling. 
+[2019.08.06-09.15.09:654][636]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer scifi_walls, compiling. 
+[2019.08.06-09.15.09:665][636]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer scifi_walls, compiling. 
+[2019.08.06-09.15.09:690][637]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer clothmat_floor, compiling. 
+[2019.08.06-09.15.16:088][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.08.06-09.16.07:880][264]LightingResults: Warning: pump Object has overlapping UVs.
+[2019.08.06-09.16.07:880][264]LightingResults: pump Lightmap UV are overlapping by 85.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.08.06-09.16.09:268][268]LightingResults: Warning: pump Object has overlapping UVs.
+[2019.08.06-09.16.09:268][268]LightingResults: pump Lightmap UV are overlapping by 85.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.08.06-09.19.47:492][915]Job is a success!
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.231s
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:      BrickData 1280x25x5 = 5.6Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:      Bricks at Level
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:          0: 0.7% covering 100.0% of volume
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:          1: 7.5% covering 16.0% of volume
+[2019.08.06-09.19.48:230][916]LogVolumetricLightmapImport:          2: 91.8% covering 3.1% of volume
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:835][916]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 128X128)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 128X128)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 512X512)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 512X512)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 64X64)
+[2019.08.06-09.19.53:836][916]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 64X64)
+[2019.08.06-09.19.54:036][916]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2019.08.06-09.19.54:036][916]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X128)
+[2019.08.06-09.19.54:157][916]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.08.06-09.19.54:201][916]Lightmass on DESKTOP-6QNHK97: 4:37 min total, 1.29 sec importing, 1.57 sec setup, 31.0 sec photons, 4:03 min processing, 0 ms extra exporting [637/637 mappings]. Threads: 16:13 min total, 5:36 min processing.
+[2019.08.06-09.19.54:206][916]LogStaticLightingSystem: Untitled_BuiltData storing lightmap data for 498 meshes in 39 LightmapResourceClusters (12.8 Meshes per cluster).
+[2019.08.06-09.19.54:220][916]LogMaterial: Warning: Material /Game/Assets/Materials/clothmat.clothmat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.06-09.19.54:252][916]LogMaterial: Display: Missing cached shader map for material clothmat, compiling. 
+[2019.08.06-09.19.54:295][916]LogMaterial: Warning: Material /Game/Assets/Materials/WoodMat.WoodMat needed to have new flag set bUsedWithStaticLighting !
+[2019.08.06-09.19.54:323][916]LogMaterial: Display: Missing cached shader map for material WoodMat, compiling. 
+[2019.08.06-09.19.54:403][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.08.06-09.19.54:457][916]LogStaticLightingSystem: Illumination: 4:50 min (5.15 sec encoding lightmaps, 317 ms encoding shadowmaps)
+[2019.08.06-09.19.54:457][916]LogStaticLightingSystem: Lightmap texture memory:  13.5 MB (11.5 MB streaming, 2.0 MB non-streaming), 64 textures
+[2019.08.06-09.19.54:457][916]LogStaticLightingSystem: Shadowmap texture memory: 7.3 MB (6.0 MB streaming, 1.3 MB non-streaming), 3 textures
+[2019.08.06-09.19.55:236][916]DumpUnbuiltLightIteractions
+[2019.08.06-09.19.55:236][916]Lights with unbuilt interactions: 0
+[2019.08.06-09.19.55:236][916]
+[2019.08.06-09.19.55:236][916]Primitives with unbuilt interactions: 0
+[2019.08.06-09.20.07:382][917]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.08.06-09.20.07:382][917]MapCheck: New page: Untitled - Aug 6, 2019, 1:20:07 PM
+[2019.08.06-09.20.07:385][917]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3.093ms to complete.
+[2019.08.06-09.24.39:289][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2019.08.06-09.24.41:003][732]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Untitled_Auto1595C167A4B7CF1777762A79F8F653D40.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Autosaves/Game/Untitled_Auto1.umap'
+[2019.08.06-09.24.41:014][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Untitled' took 1.752
+[2019.08.06-09.24.41:015][732]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.752
+[2019.08.06-09.24.41:019][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/clothmat] ([1] browsable assets)...
+[2019.08.06-09.24.41:045][732]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/clothmat.clothmat]
+[2019.08.06-09.24.41:045][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/clothmat]
+[2019.08.06-09.24.41:092][732]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/clothmat_Auto1924255224C8AC3FAC72CD0B767AE78F9.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Autosaves/Game/Assets/Materials/clothmat_Auto1.uasset'
+[2019.08.06-09.24.41:093][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/clothmat_Inst] ([1] browsable assets)...
+[2019.08.06-09.24.41:105][732]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Materials/clothmat_Inst.clothmat_Inst]
+[2019.08.06-09.24.41:105][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/clothmat_Inst]
+[2019.08.06-09.24.41:139][732]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/clothmat_Inst_Auto13F7F7D5C4074CBC656E337AA3F6F5F42.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Autosaves/Game/Assets/Materials/clothmat_Inst_Auto1.uasset'
+[2019.08.06-09.24.41:142][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/WoodMat_Inst] ([1] browsable assets)...
+[2019.08.06-09.24.41:154][732]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/Materials/WoodMat_Inst.WoodMat_Inst]
+[2019.08.06-09.24.41:154][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/WoodMat_Inst]
+[2019.08.06-09.24.41:188][732]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/WoodMat_Inst_Auto15FFEE1D240C63260E07DD58B43874C66.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Autosaves/Game/Assets/Materials/WoodMat_Inst_Auto1.uasset'
+[2019.08.06-09.24.41:190][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Materials/WoodMat] ([1] browsable assets)...
+[2019.08.06-09.24.41:202][732]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/Materials/WoodMat.WoodMat]
+[2019.08.06-09.24.41:202][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Materials/WoodMat]
+[2019.08.06-09.24.41:243][732]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/WoodMat_Auto1B873B5A64BECCBD0F7A9569AF32ECE98.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Autosaves/Game/Assets/Materials/WoodMat_Auto1.uasset'
+[2019.08.06-09.24.41:245][732]LogFileHelpers: Auto-saving content packages took 0.227
+[2019.08.06-10.45.28:910][271]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.45.33:727][439]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.08.06-10.45.48:242][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.45.48:561][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.45.49:195][171]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.45.50:976][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.45.53:864][461]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:7582).
+[2019.08.06-10.45.54:566][461]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00000.png
+[2019.08.06-10.45.56:840][550]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.46.15:932][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.46.17:031][553]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.46.19:667][678]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:8683).
+[2019.08.06-10.46.20:343][678]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00001.png
+[2019.08.06-10.46.20:935][703]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.46.43:101][801]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.46.44:272][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.46.46:715][ 24]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:9918).
+[2019.08.06-10.46.47:343][ 24]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00002.png
+[2019.08.06-10.46.48:329][ 72]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.47.04:649][823]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.47.05:772][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.47.08:181][ 34]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:10810).
+[2019.08.06-10.47.08:822][ 34]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00003.png
+[2019.08.06-10.47.09:780][ 77]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.47.15:631][330]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (pieces_Wall1)
+[2019.08.06-10.47.18:696][467]LogEditorViewport: Clicking on Actor (LMB): DecalActor (rustdecal_Inst)
+[2019.08.06-10.47.21:566][579]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.47.21:770][593]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Assets/decals/rustdecal_Inst1.rustdecal_Inst1
+[2019.08.06-10.47.52:534][424]LogSlate: Window 'Color Picker' being destroyed
+[2019.08.06-10.47.54:322][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.08.06-10.47.54:322][494]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.08.06-10.47.54:349][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2019.08.06-10.47.54:375][494]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/rustdecal_Inst1D22B3D4C4D03BF41AF368BA01DC732B1.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/decals/rustdecal_Inst1.uasset'
+[2019.08.06-10.47.55:857][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.08.06-10.48.03:773][934]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.04:738][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.06:594][105]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:12453).
+[2019.08.06-10.48.07:240][105]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00004.png
+[2019.08.06-10.48.07:754][129]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.48.20:302][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.21:398][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.23:340][835]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:13059).
+[2019.08.06-10.48.24:026][835]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00005.png
+[2019.08.06-10.48.24:577][857]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.48.37:190][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.38:642][524]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.48.40:407][606]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:13695).
+[2019.08.06-10.48.41:075][606]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00006.png
+[2019.08.06-10.48.42:647][674]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.49.15:392][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.16:658][367]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.18:764][474]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:15436).
+[2019.08.06-10.49.19:408][474]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00007.png
+[2019.08.06-10.49.19:863][495]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.49.26:725][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.27:772][885]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.29:669][980]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:15837).
+[2019.08.06-10.49.30:190][980]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00008.png
+[2019.08.06-10.49.30:715][  6]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.49.50:958][908]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.52:487][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.49.54:681][143]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:16851).
+[2019.08.06-10.49.55:345][143]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00009.png
+[2019.08.06-10.49.55:775][161]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.50.05:916][544]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.50.06:873][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.50.08:804][693]LogRenderer: Reallocating scene render targets to support 2416x1160 Format 9 NumSamples 1 (Frame:17308).
+[2019.08.06-10.50.09:523][693]LogClient: High resolution screenshot saved as C:/Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Screenshots/Windows/HighresScreenshot00010.png
+[2019.08.06-10.50.11:010][764]LogSlate: Window 'High Resolution Screenshot' being destroyed
+[2019.08.06-10.50.12:043][794]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.50.13:299][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2019.08.06-10.50.13:309][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.08.06-10.50.13:318][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.08.06-10.50.13:346][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.08.06-10.50.14:959][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Untitled67829618470EA916A8F2F89F8EC133F6.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Untitled.umap'
+[2019.08.06-10.50.15:000][924]LogFileHelpers: Saving map 'Untitled' took 1.684
+[2019.08.06-10.50.15:007][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled_BuiltData" FILE="../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Untitled_BuiltData.uasset" SILENT=true
+[2019.08.06-10.50.16:134][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/Untitled_BuiltDataFC56754B40F2D3DFD570EF83C91D932D.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Untitled_BuiltData.uasset'
+[2019.08.06-10.50.16:146][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/clothmat" FILE="../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/clothmat.uasset" SILENT=true
+[2019.08.06-10.50.16:173][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/clothmat0E91B45347368B36B04563808021BF84.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/clothmat.uasset'
+[2019.08.06-10.50.16:208][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/clothmat_Inst6166D09A492AD712F842A7A952F121AF.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/clothmat_Inst.uasset'
+[2019.08.06-10.50.16:238][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/WoodMat_InstF6DAFA1842C7AA8975091CBDDD320306.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/WoodMat_Inst.uasset'
+[2019.08.06-10.50.16:249][924]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Materials/WoodMat" FILE="../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/WoodMat.uasset" SILENT=true
+[2019.08.06-10.50.16:273][924]LogSavePackage: Moving '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Saved/WoodMatBE4A68D2426399C22A6DBF9337528884.tmp' to '../../../../../../Users/PC-ST/Documents/Unreal Projects/Level-editing-2/blockout/Content/Assets/Materials/WoodMat.uasset'
